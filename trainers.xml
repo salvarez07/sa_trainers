@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trainers>
+	<trainer >
+		<name>
+			Trainer 1
+		</name>
+		<title>
+			Title 1
+		</title>
+		<description>
+			Lorem Ipsum dolor sit amet
+		</description>
+		<trainerPicture source='https://www.witseducation.com/fit/wp-content/uploads/2014/12/lifestyle-wellness-coaching-trainer.jpg'>
+		</trainerPicture>
+	</trainer>
+	<trainer >
+		<name>
+			Trainer 2
+		</name>
+		<title>
+			Title 2
+		</title>
+		<description>
+			Lorem Ipsum dolor sit amet
+		</description>
+		<trainerPicture source='https://www.witseducation.com/fit/wp-content/uploads/2014/12/lifestyle-wellness-coaching-trainer.jpg'>
+		</trainerPicture>
+	</trainer>
+	<trainer >
+		<name>
+			Trainer 3
+		</name>
+		<title>
+			Title 3
+		</title>
+		<description>
+			Lorem Ipsum dolor sit amet
+		</description>
+		<trainerPicture source='https://www.witseducation.com/fit/wp-content/uploads/2014/12/lifestyle-wellness-coaching-trainer.jpg'>
+		</trainerPicture>
+	</trainer>
+</trainers>
